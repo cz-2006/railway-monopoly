@@ -1,0 +1,2 @@
+# 铁路环游游戏依赖
+tkinter  # 通常预装在Python中，用于GUI
